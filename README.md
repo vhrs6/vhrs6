@@ -7,5 +7,5 @@
 - 👯 I’m looking to contribute to OPEN SOURCE
 - 🤔 I’m looking for help with beginner friendly issues on open source
 - 💬 Aspiring to get a REMOTE JOB in FUTURE
-- 📫 How to reach me: [@hrs_vicky]()
+- 📫 How to reach me: [@hrs_vicky](https://twitter.com/hrs_vicky)
 
